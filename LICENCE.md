@@ -34,9 +34,9 @@ No part of this archive may be reproduced, distributed, transmitted, or used to 
 - **Fair Use**: This licence does not limit or restrict any rights under applicable fair use or fair dealing laws or any other applicable exceptions and limitations to copyright protection.
 - **Media Attribution**: Any allowed use of media from this archive, including but not limited to video, audio and images, requires attribution of the creator. Attribution details may be found in the file metadata. The attribution must be clearly visible and include, at the minimum, the creator and the project's name. If creator metadata is missing from the file, please credit the project, e.g.:
 
-> "Image by John Doe, for Remembering Together Dumfries & Galloway, 2024"
+  - > "Image by John Doe, for Remembering Together Dumfries & Galloway, 2024"
 
-> "Image courtesy Remembering Together Dumfries & Galloway, 2024"
+  - > "Image courtesy Remembering Together Dumfries & Galloway, 2024"
 
 For all other uses, explicit permission from the author(s) is required.
 
