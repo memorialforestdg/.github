@@ -12,7 +12,7 @@ Links of note:
 [Media Archive](https://github.com/memorialforestdg/media-archive)
 [Press Kits & Promo Materials](https://github.com/memorialforestdg/media-archive/press-promo)
 
-Please note that public access to this archive does not imply an open-source license or a waiver of copyright protections. For full details, please see our [USAGE LICENSE]()
+Please note that public access to this archive does not imply an open-source license or a waiver of copyright protections. For full details, please see our [USAGE LICENSE](https://github.com/memorialforestdg/.github/blob/main/LICENCE.md)
 
 Copyright © 2024 Remembering Together Dumfries & Galloway, Dr. ts Beall, Katie Anderson.
 
