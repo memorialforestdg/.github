@@ -13,8 +13,8 @@ URLs:
 
 ### Copyrights
 
-**Media & Content:** Copyright © 2024 Remembering Together Dumfries & Galloway, Dr. ts Beall, Katie Anderson.
-**Code, Website Design & Implementation:** Copyright © 2024 Benjamin Rush (bnjmnrsh).
+- **Media & Content:** Copyright © 2024 Remembering Together Dumfries & Galloway, Dr. ts Beall, Katie Anderson.
+- **Code, Website Design & Implementation:** Copyright © 2024 Benjamin Rush (bnjmnrsh).
 
 All Rights Reserved.
 
