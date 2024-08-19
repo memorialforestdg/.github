@@ -50,5 +50,5 @@ For all other uses, explicit permission from the author(s) is required.
 
 ### Contact Information
 
-For inquiries regarding media & content licensing, please contact <rememberingtogetherdg@gmail.com>.
-For inquiries regarding the code licensing or usage issues with the website, please contact <bnjmnrsh@gmail.com>.
+- For inquiries regarding media & content licensing, please contact <rememberingtogetherdg@gmail.com>.
+- -For inquiries regarding the code licensing or usage issues with the website, please contact <bnjmnrsh@gmail.com>.
